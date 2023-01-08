@@ -260,8 +260,8 @@
 0.0.0.0	messdistr2-rdr2-prod.ros.rockstargames.com
 0.0.0.0	metacritic.com
 0.0.0.0	metagamerscore.com
-0.0.0.0 minecraft-services.net
-0.0.0.0 mincraft.net
+# 0.0.0.0 minecraft-services.net
+# 0.0.0.0 mincraft.net
 0.0.0.0	micromania.fr
 0.0.0.0	midnight-riders.com
 0.0.0.0	midnight-riders.net
