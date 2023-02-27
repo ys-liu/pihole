@@ -5,7 +5,7 @@
 0.0.0.0	abtesting.roblox.com
 0.0.0.0	apis.rbxcdn.com
 0.0.0.0	accounts.ea.com
-0.0.0.0	accounts.nintendo.com
+# 0.0.0.0	accounts.nintendo.com
 0.0.0.0	achievementstats.com
 0.0.0.0	aheadofthegamemovie.com
 0.0.0.0	aheadofthegamethemovie.com
@@ -18,13 +18,13 @@
 0.0.0.0	aperturelaboratories.com
 0.0.0.0	aperturelabratories.com
 0.0.0.0	aperturescience.com
-0.0.0.0	api.accounts.nintendo.com
-0.0.0.0	api.ec.nintendo.com
+# 0.0.0.0	api.accounts.nintendo.com
+# 0.0.0.0	api.ec.nintendo.com
 0.0.0.0	api.overwatchleague.com
 0.0.0.0	api.twitch.tv
 0.0.0.0	apis.roblox.com
 0.0.0.0	apis.rbxcdn.com
-0.0.0.0	apps.accounts.nintendo.com
+# 0.0.0.0	apps.accounts.nintendo.com
 0.0.0.0	as32590.net
 0.0.0.0	asf.justarchi.net
 0.0.0.0	assetdelivery.roblox.com
