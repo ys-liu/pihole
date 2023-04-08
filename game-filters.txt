@@ -2,7 +2,7 @@
 0.0.0.0	2game.com
 0.0.0.0	3games1box.com
 0.0.0.0	5games1box.com
-#0.0.0.0	abtesting.roblox.com
+0.0.0.0	abtesting.roblox.com
 0.0.0.0	apis.rbxcdn.com
 0.0.0.0	accounts.ea.com
 # 0.0.0.0	accounts.nintendo.com
@@ -22,19 +22,19 @@
 # 0.0.0.0	api.ec.nintendo.com
 0.0.0.0	api.overwatchleague.com
 0.0.0.0	api.twitch.tv
-#0.0.0.0	apis.roblox.com
+0.0.0.0	apis.roblox.com
 0.0.0.0	apis.rbxcdn.com
 # 0.0.0.0	apps.accounts.nintendo.com
 0.0.0.0	as32590.net
 0.0.0.0	asf.justarchi.net
-#0.0.0.0	assetdelivery.roblox.com
-#0.0.0.0	assetgame.roblox.com
+0.0.0.0	assetdelivery.roblox.com
+0.0.0.0	assetgame.roblox.com
 0.0.0.0	astats.astats.nl
 0.0.0.0	auth-rgl-prod.ros.rockstargames.com
 0.0.0.0	auth.api.sonyentertainmentnetwork.com
 0.0.0.0	auth.riotgames.com
-#0.0.0.0	auth.roblox.com
-#0.0.0.0	avatar.roblox.com
+0.0.0.0	auth.roblox.com
+0.0.0.0	avatar.roblox.com
 0.0.0.0	backloggery.com
 0.0.0.0	barter.vg
 0.0.0.0	battle.net
@@ -57,9 +57,9 @@
 0.0.0.0	cheapshark.com
 0.0.0.0	chrono.gg
 0.0.0.0	cjs-cdkeys.com
-#0.0.0.0	client-telemetry.roblox.com
+0.0.0.0	client-telemetry.roblox.com
 0.0.0.0	clientconfig.rpg.riotgames.com
-#0.0.0.0	clientsettingscdn.roblox.com
+0.0.0.0	clientsettingscdn.roblox.com
 0.0.0.0	completionator.com
 0.0.0.0	completionist.me
 0.0.0.0	consogame.com
@@ -121,10 +121,10 @@
 0.0.0.0	dotaconcept.com
 0.0.0.0	downloaders.reloadedtech.com
 0.0.0.0	ea.com
-#0.0.0.0	ecsv2.roblox.com
+0.0.0.0	ecsv2.roblox.com
 0.0.0.0	eneba.com
 0.0.0.0	enhancedsteam.com
-#0.0.0.0	ephemeralcounters.api.roblox.com
+0.0.0.0	ephemeralcounters.api.roblox.com
 0.0.0.0	es-mx.socialclub.rockstargames.com
 0.0.0.0	es.isthereanydeal.com
 0.0.0.0	es.socialclub.rockstargames.com
@@ -154,7 +154,7 @@
 0.0.0.0	gamedownloads.rockstargames.com
 0.0.0.0	gameforge.com
 0.0.0.0	gamegauntlets.com
-#0.0.0.0	gameinternationalization.roblox.com
+0.0.0.0	gameinternationalization.roblox.com
 0.0.0.0	gameladen.com
 0.0.0.0	gamerlifemovie.com
 0.0.0.0	gamerlifethemovie.com
@@ -438,7 +438,7 @@
 0.0.0.0	theheartofracing.org
 0.0.0.0	thewheelhaus.com
 0.0.0.0	thinkwithportals.com
-#0.0.0.0	thumbnails.roblox.com
+0.0.0.0	thumbnails.roblox.com
 0.0.0.0	truesteamachievements.com
 0.0.0.0	twitch.tv
 0.0.0.0	uk.gamesplanet.com
